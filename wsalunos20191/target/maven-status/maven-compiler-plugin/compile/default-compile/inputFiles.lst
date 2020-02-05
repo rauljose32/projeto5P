@@ -1,0 +1,12 @@
+/home/aluno/Vídeos/projetoa/wsalunos20191/src/main/java/com/mycompany/wsalunos20191/service/PessoaService.java
+/home/aluno/Vídeos/projetoa/wsalunos20191/src/main/java/com/mycompany/wsalunos20191/model/Pedido.java
+/home/aluno/Vídeos/projetoa/wsalunos20191/src/main/java/com/mycompany/wsalunos20191/model/Pessoa.java
+/home/aluno/Vídeos/projetoa/wsalunos20191/src/main/java/com/mycompany/wsalunos20191/model/Produto.java
+/home/aluno/Vídeos/projetoa/wsalunos20191/src/main/java/com/mycompany/wsalunos20191/dao/GenericDAO.java
+/home/aluno/Vídeos/projetoa/wsalunos20191/src/main/java/com/mycompany/wsalunos20191/model/ItemListaPedido.java
+/home/aluno/Vídeos/projetoa/wsalunos20191/src/main/java/com/mycompany/wsalunos20191/dao/PessoaDAO.java
+/home/aluno/Vídeos/projetoa/wsalunos20191/src/main/java/com/mycompany/wsalunos20191/service/ProdutoService.java
+/home/aluno/Vídeos/projetoa/wsalunos20191/src/main/java/com/mycompany/wsalunos20191/util/JPAUtil.java
+/home/aluno/Vídeos/projetoa/wsalunos20191/src/main/java/com/mycompany/wsalunos20191/wsrest/GenericResource.java
+/home/aluno/Vídeos/projetoa/wsalunos20191/src/main/java/com/mycompany/wsalunos20191/wsrest/ApplicationConfig.java
+/home/aluno/Vídeos/projetoa/wsalunos20191/src/main/java/com/mycompany/wsalunos20191/dao/ProdutoDAO.java

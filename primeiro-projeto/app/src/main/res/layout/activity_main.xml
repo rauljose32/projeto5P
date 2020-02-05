@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    tools:context=".MainActivity">
+
+   <!-- <TextView
+        android:id="@+id/nomeUsuario"
+        android:textSize="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        /> -->
+
+    <LinearLayout
+        style="@style/layoutLineDash">
+
+        <Button
+            android:id="@+id/btnDadosPessoais"
+            style="@style/btnDash"
+            android:drawableTop="@mipmap/dados64"
+            android:text="Dados Pessoais"/>
+
+        <Button
+            android:id="@+id/btnPedidos"
+            style="@style/btnDash"
+            android:drawableTop="@mipmap/list64"
+            android:text="Pedidos"
+            android:onClick="actPedidos"/>
+
+        <Button
+            style="@style/btnDash"
+            android:drawableTop="@mipmap/conf64"
+            android:text="Configuração" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/layoutLineDash">
+
+        <Button
+            style="@style/btnDash"
+            android:text="Produtos"
+            android:drawableTop="@mipmap/vendas64"
+            android:onClick="actProdutos"/>
+
+        <Button
+            style="@style/btnDash"
+            android:text="Promoções"
+            android:drawableTop="@mipmap/promo64"/>
+
+        <Button
+            style="@style/btnDash"
+            android:text="Fale Conosco"
+            android:drawableTop="@mipmap/fale"/>
+
+    </LinearLayout>
+
+</LinearLayout>
